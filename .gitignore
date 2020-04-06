@@ -1,0 +1,4 @@
+trim_and_chip/
+test/
+outputs/
+*.jar

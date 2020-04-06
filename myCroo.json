@@ -1,0 +1,8 @@
+{
+	"myWorkflow.myTask": {
+		"helloWorldFile": {
+			"path": "out-hello.txt",
+			"table": "My hello world output"
+		}
+	}
+}
