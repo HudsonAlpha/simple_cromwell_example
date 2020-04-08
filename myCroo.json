@@ -1,8 +1,28 @@
 {
-	"myWorkflow.myTask": {
+	"myWorkflow.firstTask": {
 		"helloWorldFile": {
-			"path": "intermediate_outputs/hello01.txt",
+			"path": "intermediate_outputs/hello_file.txt",
 			"table": "My hello world output"
+		}
+	},
+	"myWorkflow.secondTask": {
+		"goodbyeWorldFile": {
+			"path": "intermediate_outputs/goodbye_file.txt",
+			"table": "My goodbye world output"
+		}
+	},
+	"myWorkflow.catTask": {
+		"outputFile": {
+			"path": "final_output.txt",
+			"table": "final output"
+		},
+		"whatDid": {
+			"table": "output records",
+			"path": "my_output_log.txt"
+		},
+		"whatPassed": {
+			"table": "string passed in input",
+			"path": "my_commentary.txt"
 		}
 	}
 }

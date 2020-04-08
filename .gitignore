@@ -1,4 +1,4 @@
 trim_and_chip/
 test/
-outputs/
+output*/
 *.jar

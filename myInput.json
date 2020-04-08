@@ -1,5 +1,4 @@
 {
-  "myWorkflow.description": "A test workflow.",
-  "myWorkflow.title": "Hello World Take 01"
+  "myWorkflow.first.inputString": "Here's my string input",
+  "myWorkflow.title": "Test Workflow Run 01"
 }
-
