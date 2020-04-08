@@ -2,3 +2,4 @@ trim_and_chip/
 test/
 output*/
 *.jar
+input2.json

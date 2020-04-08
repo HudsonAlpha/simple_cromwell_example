@@ -1,11 +1,11 @@
 {
-	"myWorkflow.firstTask": {
+	"myWorkflow.first": {
 		"helloWorldFile": {
 			"path": "intermediate_outputs/hello_file.txt",
 			"table": "My hello world output"
 		}
 	},
-	"myWorkflow.secondTask": {
+	"myWorkflow.second": {
 		"goodbyeWorldFile": {
 			"path": "intermediate_outputs/goodbye_file.txt",
 			"table": "My goodbye world output"
