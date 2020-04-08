@@ -1,5 +1,5 @@
 # A simple Cromwell+Docker test case
-Intended audience: Internal developers 
+Intended audience: Internal developers
 ## Description
 This workflow runs two tasks in parallel:
 1. Print "hello world" to a file. Take a string input and return it to the next process. Print "I said hello" to another file.
@@ -60,5 +60,6 @@ total 0
 ```
 
 ## Useful Info
-[Markdown Specification](https://github.com/openwdl/wdl/blob/master/versions/1.0/SPEC.md)
+[WDL Specification](https://github.com/openwdl/wdl/blob/master/versions/1.0/SPEC.md)
+
 [Broad Cromwell Intro](https://cromwell.readthedocs.io/en/stable/tutorials/FiveMinuteIntro/)
